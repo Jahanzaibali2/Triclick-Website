@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Triclick-Website/static/css/main.205d264c.css",
+    "main.js": "/Triclick-Website/static/js/main.fdfc4348.js",
+    "static/js/918.2035e273.chunk.js": "/Triclick-Website/static/js/918.2035e273.chunk.js",
+    "static/js/345.4536ea27.chunk.js": "/Triclick-Website/static/js/345.4536ea27.chunk.js",
+    "static/js/62.d1775596.chunk.js": "/Triclick-Website/static/js/62.d1775596.chunk.js",
+    "static/js/470.0e5b7ee1.chunk.js": "/Triclick-Website/static/js/470.0e5b7ee1.chunk.js",
+    "static/js/353.4f696c40.chunk.js": "/Triclick-Website/static/js/353.4f696c40.chunk.js",
+    "static/js/114.adb316ae.chunk.js": "/Triclick-Website/static/js/114.adb316ae.chunk.js",
+    "static/js/453.9d2219d3.chunk.js": "/Triclick-Website/static/js/453.9d2219d3.chunk.js",
+    "static/media/dummy": "/Triclick-Website/static/media/dummy.a13253907f004a7263c7",
+    "static/media/img3.png": "/Triclick-Website/static/media/img3.94529832bfea4e6bd92c.png",
+    "static/media/Digital.png": "/Triclick-Website/static/media/Digital.451e086d36662f2d8e7d.png",
+    "static/media/Video.png": "/Triclick-Website/static/media/Video.6bb41cf7d1d1e93df28f.png",
+    "static/media/Logo.png": "/Triclick-Website/static/media/Logo.f87b011b8b2868762c32.png",
+    "static/media/Web.png": "/Triclick-Website/static/media/Web.020fae16a5de49bc4e60.png",
+    "static/media/Latte.png": "/Triclick-Website/static/media/Latte.bcfa012996d85f75425c.png",
+    "static/media/Lazy6.png": "/Triclick-Website/static/media/Lazy6.2a0c4baa21af0bafdda2.png",
+    "static/media/ph5.png": "/Triclick-Website/static/media/ph5.db3deb6c6354fd8b9fcf.png",
+    "static/media/dance.png": "/Triclick-Website/static/media/dance.22da69d05fd370c7a7d9.png",
+    "index.html": "/Triclick-Website/index.html",
+    "main.205d264c.css.map": "/Triclick-Website/static/css/main.205d264c.css.map",
+    "main.fdfc4348.js.map": "/Triclick-Website/static/js/main.fdfc4348.js.map",
+    "918.2035e273.chunk.js.map": "/Triclick-Website/static/js/918.2035e273.chunk.js.map",
+    "345.4536ea27.chunk.js.map": "/Triclick-Website/static/js/345.4536ea27.chunk.js.map",
+    "62.d1775596.chunk.js.map": "/Triclick-Website/static/js/62.d1775596.chunk.js.map",
+    "470.0e5b7ee1.chunk.js.map": "/Triclick-Website/static/js/470.0e5b7ee1.chunk.js.map",
+    "353.4f696c40.chunk.js.map": "/Triclick-Website/static/js/353.4f696c40.chunk.js.map",
+    "114.adb316ae.chunk.js.map": "/Triclick-Website/static/js/114.adb316ae.chunk.js.map",
+    "453.9d2219d3.chunk.js.map": "/Triclick-Website/static/js/453.9d2219d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.205d264c.css",
+    "static/js/main.fdfc4348.js"
+  ]
+}

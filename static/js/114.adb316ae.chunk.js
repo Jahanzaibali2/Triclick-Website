@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfirst_project=self.webpackChunkfirst_project||[]).push([[114],{114(e,r,s){s.r(r),s.d(r,{default:()=>l});var t=s(43),o=(s(635),s(579));const c=()=>{const e=(new Date).getFullYear();return(0,o.jsx)("footer",{className:"footer-section",role:"contentinfo",children:(0,o.jsx)("div",{className:"footer-container",children:(0,o.jsxs)("p",{className:"footer-copy",children:["\xa9 ",e," TrikClik. All rights reserved."]})})})},l=(0,t.memo)(c)}}]);
+//# sourceMappingURL=114.adb316ae.chunk.js.map
