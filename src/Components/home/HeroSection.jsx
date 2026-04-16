@@ -1,6 +1,6 @@
 import React, { memo } from "react";
-import "../styles/Home.css";
-import logo from "../assets/dance.png";
+import "../../Styles/Home.css";
+import logo from "../../assets/dance.png";
 
 const HeroSection = () => {
   return (

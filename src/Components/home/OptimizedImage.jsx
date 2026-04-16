@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { getOptimalImageFormat, preloadImage } from "../utils/imageOptimizer";
+import { getOptimalImageFormat, preloadImage } from "../../utils/imageOptimizer";
 
 /**
  * OptimizedImage Component
@@ -58,10 +58,10 @@ const OptimizedImage = ({
             setIsLoading(false);
           }
         }
-      } catch (error) {
+      } catch {
         if (isMounted) {
           // Fallback to original if WebP fails
-          if (webpSrc && imageSrc === webpSrc) {
+          if (webpSrc) {
             setImageSrc(src);
             setIsLoading(false);
           } else {
